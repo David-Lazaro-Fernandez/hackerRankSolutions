@@ -17,4 +17,3 @@ if(flag == True and all([x>=0 for x in d.values()])):
 else:
     print('No')        
     
-    
